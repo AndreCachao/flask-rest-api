@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/andre2001_cachao/realpython/flask-connexion-rest-part-3/venv"
+VIRTUAL_ENV="/home/andre2001_cachao/restapi/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
